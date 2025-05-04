@@ -2,6 +2,10 @@
 
 ###
 
+<h2 align="left">📚 Knowledge base:</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -24,6 +28,10 @@
 
 ###
 
+<h2 align="left">🔗 Socials:</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -43,14 +51,14 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtbTAwdTBwczA0d3pxMXRlbHYybG9jNWQ1cTNscmpucXQ5d2xmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8uaOiZk0xg2Na/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/31lr7nvtws6cl74npc2qcnkb3xui">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lr7nvtws6cl74npc2qcnkb3xui&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtbTAwdTBwczA0d3pxMXRlbHYybG9jNWQ1cTNscmpucXQ5d2xmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8uaOiZk0xg2Na/giphy.gif"  />
 
 ###
