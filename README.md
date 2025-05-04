@@ -4,8 +4,6 @@
 
 <h2 align="left">📚 Knowledge base:</h2>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -29,8 +27,6 @@
 ###
 
 <h2 align="left">🔗 Socials:</h2>
-
-###
 
 <br clear="both">
 
