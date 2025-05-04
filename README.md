@@ -1,4 +1,4 @@
-<h2 align="right">Hi 👋! I'm Sukhrob and you can call me "jesko" :)</h2>
+<h2 align="left">Hi 👋! I'm Sukhrob and you can call me "jesko" :)</h2>
 
 ###
 
